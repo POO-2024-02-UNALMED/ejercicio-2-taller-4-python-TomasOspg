@@ -27,7 +27,7 @@ class Carro:
         return aux_ref
 
 if __name__ == "__main__":
-    #carro0=Carro()
+    carro0=Carro()
     carro1=Carro("Tracker")
     carro2=Carro("Sandero Stepway", 3 ,"Renault","v8")
     carro3=Carro("Picanto", 2,"Kia")
